@@ -30,5 +30,4 @@ This project was created to practice Flutter UI design, state management, and ga
 ---
 
 ## 📸 Screenshots
-
-(Add your app screenshots here)  
+<img width="1552" height="966" alt="Image" src="https://github.com/user-attachments/assets/7db66ae5-b833-4f38-8e8b-7d842bc32a86" />
